@@ -1,0 +1,5 @@
+Carlos Castillo:A-2023-01:4.5
+Juan Daniel Garcia:A-2023-02:-1.0
+Valeria Miramang:A-2023-03:NaN
+Carlos Pepinosa:A-2023-04:-1.0
+Camila Portillo:A-2023-05:4.666666666666667

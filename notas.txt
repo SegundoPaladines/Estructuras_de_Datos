@@ -1,0 +1,3 @@
+A-2023-01;Taller 1:5.0;Taller 2:4.0;
+A-2023-03;Taller 1:4.0;
+A-2023-05;Taller 1:5.0;Taller 2:4.0;Taller 3:5.0;
